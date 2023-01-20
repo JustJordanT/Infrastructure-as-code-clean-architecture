@@ -27,7 +27,7 @@ Writing clean code with Infrastructure as Code (IaC) involves adhering to best p
 
 **Use linting and testing**: Use linting tools like Flake8, ESLint, and testing tools like pytest to ensure that your IAC code adheres to best practices and is functional.
 
-**Keep your IAC in one place**: Use a centralized tool like Terraform, Ansible, or CloudFormation to provision and manage your infrastructure. This will make it easier to maintain and understand your infrastructure.
+**Keep your IAC in one place**: Use a centralized tool like Pulumi, Terraform, Ansible, or CloudFormation to provision and manage your infrastructure. This will make it easier to maintain and understand your infrastructure.
 
 **Avoid hard-coded values**: Use variables and parameterize your IAC code to make it more flexible and easier to change.
 

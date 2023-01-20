@@ -23,6 +23,7 @@ Writing clean code with Infrastructure as Code (IaC) involves adhering to best p
 
 **Use modular code**: Break your IAC code into small, reusable modules. This will make it easier to test and maintain.
 
+Code examples coming soon... 🏗👨🏽‍🚒
 **Use comments**: Use comments to explain the purpose and function of your IAC code. This will make it easier for others to understand and maintain your code.
 
 **Use linting and testing**: Use linting tools like Flake8, ESLint, and testing tools like pytest to ensure that your IAC code adheres to best practices and is functional.

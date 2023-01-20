@@ -1,4 +1,7 @@
 # Infrastructure-as-code-clean-architecture
+![image](https://user-images.githubusercontent.com/38886930/213609353-60712d8f-9bf1-49e1-92ea-39fee1b78490.png)
+"Not sure where i found this image so kudos to who made it you are awesome!!"
+
 
 Clean architecture is an architectural pattern that separates an application into layers, with each layer having a specific responsibility. Infrastructure as code (IAC) is a method of provisioning and managing IT infrastructure through code, rather than manual configuration.
 

@@ -36,7 +36,7 @@ Writing clean code with Infrastructure as Code (IaC) involves adhering to best p
 By following these tips, you can write clean, organized, and maintainable IAC code that makes it easier to provision and manage your infrastructure.
 
 
-## This is continuously being updated any recomendations should be submited via a Pull request; Thanks!
+## This is continuously being updated any recomendations should be submited via a issue; Thanks!
 
 
 Code examples coming soon... 🏗👨🏽‍🚒
